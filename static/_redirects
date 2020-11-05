@@ -2,4 +2,4 @@
 # https://www.netlify.com/docs/redirects/
 
 https://rmccre.netlify.app/*      https://rmccre.netlify.app/:splat    301!
-http://rmccre.netlify.app/*       https://rmccre.netlify.app/:splat    301!
+https://rmccre.netlify.app/*      https://rmccre.netlify.app/    301!
