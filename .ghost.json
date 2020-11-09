@@ -1,10 +1,10 @@
 {
   "development": {
     "apiUrl": "https://mrrobertmccreary.ghost.io",
-    "contentApiKey": "16071350b95ab4cd7b41f7ab3f"
+    "contentApiKey": "aa5454cb337af9cd4738f809c2"
   },
   "production": {
     "apiUrl": "https://mrrobertmccreary.ghost.io",
-    "contentApiKey": "16071350b95ab4cd7b41f7ab3f"
+    "contentApiKey": "aa5454cb337af9cd4738f809c2"
   }
 }
